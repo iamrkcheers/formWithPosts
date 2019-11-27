@@ -1,0 +1,43 @@
+.submitBtn {
+	margin: 4% 0 !important;
+	background: #653c9d !important;
+}
+
+.facebookBtn {
+	background: #4267B2 !important;
+}
+
+.text-content-heading {
+	margin: 3% !important;
+}
+
+.errorText {
+	color: red !important;
+}
+
+#pageHeading {
+	margin-top: 5% !important;
+}
+
+.mainDiv {
+	background: white !important;
+	padding: 5% !important;
+	padding-top: 1% !important;
+	margin: 5% 0 !important;
+	border-radius: 2% !important;
+	text-align: center !important;
+}
+
+.cards {
+	min-height: 450px !important;
+}
+
+a, a:hover, a:visited {
+	color: #653c9d !important;
+	text-decoration: none !important;
+}
+
+.cardMedia {
+	height: 0;
+    padding-top: 56.25% !important;
+}
